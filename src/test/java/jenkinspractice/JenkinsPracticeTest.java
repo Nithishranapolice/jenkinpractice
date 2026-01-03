@@ -9,6 +9,7 @@ public class JenkinsPracticeTest {
 		System.out.println("Hii jenkins");
 		String browz = System.getProperty("Browser");
 		System.out.println(browz);
+		System.out.println("I am rana");
 	}
 
 }
